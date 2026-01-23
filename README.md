@@ -84,7 +84,3 @@ This app provides a **data-driven, reproducible solution** to optimize yield.
 - **Visualization:** Streamlit metrics and custom HTML/CSS for traffic-light indicators
 
 ---
-
-
-git clone https://github.com/rashmika-fdo/Tea-Production-Efficiency.git
-cd Tea-Production-Efficiency
