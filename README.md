@@ -2,6 +2,9 @@
 
 **Tea Production Decision Support System | ML-Powered Efficiency Tool**
 
+🔗 **Live App**: [Tea Yield Optimizer – Kalubowitiyana CTC Factory](https://tea-yield-optimizer-demo.streamlit.app/)
+
+
 ---
 
 ## 🔹 Project Overview
