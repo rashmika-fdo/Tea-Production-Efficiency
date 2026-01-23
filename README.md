@@ -5,6 +5,11 @@
 🔗 **Live App**: [Tea Yield Optimizer – Kalubowitiyana CTC Factory](https://tea-yield-optimizer-demo.streamlit.app/)
 
 
+<p align="center">
+  <img src="assets/wide.jpg" width="800">
+</p>
+
+
 ---
 
 ## 🔹 Project Overview
